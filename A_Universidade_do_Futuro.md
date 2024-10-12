@@ -1,6 +1,6 @@
 # A Universidade do Futuro: o mundo e as demandas estão mudando, a universidade e seu tripé fundamental enfrentam tempos de adaptação e reflexão sobre o futuro
 
-Francisco, Karina. "A Universidade do Futuro", Ciência & Cultura, vol. 75, no. 1, pp. 1-14, 2023. (http://cienciaecultura.bvs.br/scielo.php?script=sci_arttext&pid=S0009-67252023000100014)
+Francisco, Karina. "A Universidade do Futuro", Ciência & Cultura, vol. 75, no. 1, pp. 1-14, 2023. ( http://cienciaecultura.bvs.br/scielo.php?script=sci_arttext&pid=S0009-67252023000100014 )
 
 
 ## 1. Fichamento de Conteúdo
