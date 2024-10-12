@@ -6,7 +6,7 @@ Este repositório contém dois fichamentos de artigos acadêmicos que exploram o
 * Referência: Ponciano, Lesandro. "A Participação Popular nas Ciências Exatas e Informática", In: Dossiê Contra o Negacionismo da Ciência, Belo Horizonte: Editora PUC Minas, 2022. Capítulo 21.
 * O fichamento aborda a ciência cidadã e como a participação pública pode melhorar a confiança na ciência e na tecnologia, especialmente em áreas como algoritmos e inteligência artificial.
 
-## ['A Universidade do Futuro']
+## ['A Universidade do Futuro: o mundo e as demandas estão mudando, a universidade e seu tripé fundamental enfrentam tempos de adaptação e reflexão sobre o futuro'](A_Universidade_do_Futuro.md)
 * Referência: Francisco, Karina. "A Universidade do Futuro", Ciência & Cultura, vol. 75, no. 1, pp. 1-14, 2023.
 * O fichamento explora as mudanças necessárias nas universidades para enfrentar os desafios tecnológicos atuais, como a interdisciplinaridade, a inovação e a necessidade de reformas estruturais.
 
