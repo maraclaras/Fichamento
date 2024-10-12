@@ -1,6 +1,6 @@
 # A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico
 
-[PPONCIANO, Lesandro. A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico. In: BRUCK, Mozahir Salomão; CARDOSO, Marisa; DOS-SANTOS, Marcus Vinicius (org.). Dossiê contra o negacionismo da ciência: A importância do conhecimento científico. 1. ed. Belo Horizonte: Editora PUC Minas, 2022. Capítulo 21. ISBN: 978-65-88547-22-9 ](https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf)
+[PONCIANO, Lesandro. A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico. In: BRUCK, Mozahir Salomão; CARDOSO, Marisa; DOS-SANTOS, Marcus Vinicius (org.). Dossiê contra o negacionismo da ciência: A importância do conhecimento científico. 1. ed. Belo Horizonte: Editora PUC Minas, 2022. Capítulo 21. ISBN: 978-65-88547-22-9 ](https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Capítulo21-2022.pdf)
 
 ## 1. Fichamento de Conteúdo
 
