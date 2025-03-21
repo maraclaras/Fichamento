@@ -1,6 +1,6 @@
 # Understanding Dark Side of Online Community Engagement: An Innovation Resistance Theory Perspective
 
-[Kumar, Aman; Shankar, Amit; Tiwari, Aviral Kumar; Hong, Hae-Jung. "Understanding Dark Side of Online Community Engagement: An Innovation Resistance Theory Perspective," in Information Systems and e-Business Management, 2023](doi: 10.1007/s10257-023-00633-3)
+[Kumar, Aman; Shankar, Amit; Tiwari, Aviral Kumar; Hong, Hae-Jung. "Understanding Dark Side of Online Community Engagement: An Innovation Resistance Theory Perspective," in Information Systems and e-Business Management, 2023](doi:10.1007/s10257-023-00633-3)
 
 ## 1. Fichamento de Conteúdo
 
