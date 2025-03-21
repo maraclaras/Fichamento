@@ -8,11 +8,11 @@ O artigo examina as barreiras que levam ao desengajamento dos usuários em comun
 
 ## 2. Fichamento Bibliográfico 
 
-* Barreira de Desempenho: A incerteza sobre a eficácia e os benefícios da comunidade online pode levar ao desengajamento (página 4).
-* Sobrecarga de Informação: O excesso de conteúdo pode causar fadiga informacional e afastar os usuários (página 6).
-* Barreira de Reconhecimento Social: A falta de reconhecimento nas interações online pode reduzir a motivação para continuar participando (página 7).
-* Emoções Negativas Antecipadas: Mediam a relação entre barreiras e desengajamento, tornando a experiência online menos satisfatória (página 8).
-* Tempo de Associação (Tenure): Modera o impacto das barreiras, com usuários de longa data sendo mais propensos a se desengajar (página 10).
+* Barreira de Desempenho: A incerteza sobre a eficácia e os benefícios da comunidade online pode levar ao desengajamento.
+* Sobrecarga de Informação: O excesso de conteúdo pode causar fadiga informacional e afastar os usuários.
+* Barreira de Reconhecimento Social: A falta de reconhecimento nas interações online pode reduzir a motivação para continuar participando.
+* Emoções Negativas Antecipadas: Mediam a relação entre barreiras e desengajamento, tornando a experiência online menos satisfatória.
+* Tempo de Associação (Tenure): Modera o impacto das barreiras, com usuários de longa data sendo mais propensos a se desengajar.
 
 ## 3. Fichamento de Citações 
 
